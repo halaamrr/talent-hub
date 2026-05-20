@@ -18,3 +18,7 @@ A React web app where students showcase their projects and build portfolios, and
 npm install
 
 npm run dev
+
+## Screenshots
+![Sign Up](SignUp.png)
+
