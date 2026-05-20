@@ -28,8 +28,9 @@ npm run dev
 
 ## Student Home Page
 ![Student Home Page](Student%20Home%20Page.PNG)
-![Student Home Page](Student%20Home%20Page%202.PNG)
-![Student Home Page](Student%20Home%20Page%203.PNG)
+![Student Home Page 2](Student%20Home%20page%202.PNG)
+![Student Home Page 3](Student%20Home%20page%203.PNG)
+
 
 ## Admin Statistics
 ![Admin Statistics](Admin%20Statistics%201.PNG)
