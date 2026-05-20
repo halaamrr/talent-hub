@@ -26,20 +26,19 @@ npm run dev
 ![Sign Up](SignUp.PNG)
 
 
-##Student Home Page
-![Student Home Page](Student Home Page.PNG)
-![Student Home Page](Student Home Page 2.PNG)
-![Student Home Page](Student Home Page 3.PNG)
+## Student Home Page
+![Student Home Page](Student%20Home%20Page.PNG)
+![Student Home Page](Student%20Home%20Page%202.PNG)
+![Student Home Page](Student%20Home%20Page%203.PNG)
 
-##Admin Statistics
-![Admin Statistics](Admin Statistics 1.PNG)
-![Admin Statistics](Admin Statistics 2.PNG)
+## Admin Statistics
+![Admin Statistics](Admin%20Statistics%201.PNG)
+![Admin Statistics](Admin%20Statistics%202.PNG)
 
-##Employer Home Page & Profile
-![Employer Home Page & Profile](Employer Home Page.PNG)
-![Employer Home Page & Profile](employer portfolio.PNG)
-![Employer Home Page & Profile](employer portfolio 2.PNG)
-
+## Employer Home Page & Profile
+![Employer Home Page](Employer%20Home%20Page.PNG)
+![Employer Portfolio](employer%20portfolio.PNG)
+![Employer Portfolio](employer%20portfolio%202.PNG)
 
 
 
