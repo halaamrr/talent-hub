@@ -22,7 +22,7 @@ npm run dev
 ## Snippets of the Website
 
 
-##SignUp
+## SignUp
 ![Sign Up](SignUp.PNG)
 
 
