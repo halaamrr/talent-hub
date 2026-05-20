@@ -20,5 +20,5 @@ npm install
 npm run dev
 
 ## Screenshots
-![Sign Up](SignUp.png)
+![Sign Up](SignUp.PNG)
 
