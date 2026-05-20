@@ -19,6 +19,27 @@ npm install
 
 npm run dev
 
-## Screenshots
+## Snippets of the Website
+
+
+##SignUp
 ![Sign Up](SignUp.PNG)
+
+
+##Student Home Page
+![Student Home Page](Student Home Page.PNG)
+![Student Home Page](Student Home Page 2.PNG)
+![Student Home Page](Student Home Page 3.PNG)
+
+##Admin Statistics
+![Admin Statistics](Admin Statistics 1.PNG)
+![Admin Statistics](Admin Statistics 2.PNG)
+
+##Employer Home Page & Profile
+![Employer Home Page & Profile](Employer Home Page.PNG)
+![Employer Home Page & Profile](employer portfolio.PNG)
+![Employer Home Page & Profile](employer portfolio 2.PNG)
+
+
+
 
